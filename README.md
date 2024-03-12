@@ -4,7 +4,7 @@ Welcome to the Ca$hify app testing project!
 Ca$hify Smart Finance is a financial management tool used to record income and expenses.
 
 ## Test Objective  
-Test the application's functionality and identify possible errors, bugs, and defects on three devices: mobile, tablet, desktop.
+Test the application's functionality and identify possible errors or defects on three devices: mobile, tablet, desktop.
 
 
 ## Test Coverage  
